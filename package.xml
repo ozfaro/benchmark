@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<package format="2">
+  <name>benchmark</name>
+  <version>1.0.0</version>
+  <description>
+    empty
+  </description>
+  <maintainer email="empty@empty.com">
+    The Cartographer Authors
+  </maintainer>
+  <license>Apache 2.0</license>
+
+  <author email="empty@empty.com">
+    googletest-distribution
+  </author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
